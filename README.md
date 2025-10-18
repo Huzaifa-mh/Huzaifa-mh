@@ -15,19 +15,3 @@ public class MuhammadHuzaifa
     }
 }
 
-### 🔧 Tools & Technologies I Use
-
-#### Programming Languages  
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,javascript,typescript,java,cpp,solidity&titles=true)
-
-#### Frontend  
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=react,angular,html,css,materialui,tailwindcss&titles=true)
-
-#### Backend & Databases  
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,mysql,sqlserver,mongodb,mongoose,dynamodb&titles=true)
-
-#### Cloud & DevOps  
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,googlecloud,docker,s3,ganache&titles=true)
-
-#### Tools & IDEs  
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,eclipse,github,githubpages,slack,powershell,windows,linux,stackoverflow,npm&titles=true)
