@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammad Huzaifa  
 
-<!--
-**Huzaifa-mh/Huzaifa-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** passionate about **Backend Development** in **ASP.NET Core**, **React.js**, and **SQL Server**.  
+I enjoy solving real-world problems and continuously learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+```csharp
+public class MuhammadHuzaifa
+{
+    private string role = "Full Stack Developer";
+    public string[] skills = { "ASP.NET Core", "React.js", "SQL Server", "C#", "JavaScript" };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public string Code()
+    {
+        return "Building efficient and scalable web solutions with modern technologies.";
+    }
+}
