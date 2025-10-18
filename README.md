@@ -18,7 +18,8 @@ public class MuhammadHuzaifa
 🔧 Tools & Technologies I Use
 Programming Languages
 Skills
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+
 
 Frontend
 Skills
