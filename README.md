@@ -51,6 +51,26 @@ public class MuhammadHuzaifa
 
 ---
 
+<details>
+  <summary>📈 GitHub Stats (Click to expand)</summary>
+
+  ## 📈 GitHub Stats
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-mh&show_icons=true&theme=radical)
+
+  ## 🔥 GitHub Streak
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-mh&theme=radical)
+
+  ## 📊 Top Languages
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-mh&layout=compact&theme=radical)
+</details>
+
+[![](https://visitcount.itsvg.in/api?id=abdulmoiz99&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/muhammadhuzaifamh](https://www.linkedin.com/in/muhammadhuzaifamh/)
 - Email: muhammadhuzaifa_mh@yahoo.com
