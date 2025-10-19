@@ -14,4 +14,4 @@ public class MuhammadHuzaifa
         return "Building efficient and scalable web solutions with modern technologies.";
     }
 }
-
+![Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
