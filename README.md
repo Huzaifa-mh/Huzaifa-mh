@@ -7,7 +7,7 @@ I enjoy solving real-world problems and continuously learning new technologies t
 public class MuhammadHuzaifa
 {
     private string role = "Full Stack Developer";
-    public string[] skills = { "ASP.NET Core", "React.js", "SQL Server", "C#", "JavaScript" };
+    public string[] skills = { "ASP.NET Core", "React.js", "SQL Server", "C#", "JavaScript", "Pyhton", "C++" };
 
     public string Code()
     {
