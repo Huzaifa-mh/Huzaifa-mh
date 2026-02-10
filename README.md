@@ -7,7 +7,19 @@ I enjoy solving real-world problems and continuously learning new technologies t
 public class MuhammadHuzaifa
 {
     private string role = "Full Stack Developer";
-    public string[] skills = { "ASP.NET Core", "React.js", "SQL Server", "C#", "JavaScript", "Pyhton", "C++" };
+    public string[] skills = 
+    { 
+        "ASP.NET Core", 
+        "React.js", 
+        "TypeScript",
+        "SQL Server", 
+        "Microsoft Azure",
+        "C#", 
+        "JavaScript", 
+        "Python", 
+        "C++" 
+    };
+
 
     public string Code()
     {
@@ -24,7 +36,7 @@ public class MuhammadHuzaifa
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,python" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,ts,python" />
 </p>
 
 ---
@@ -38,8 +50,9 @@ public class MuhammadHuzaifa
 ---
 
 ### ⚙️ Back-End & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> <img
-<p align="left"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,azure" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
 </p>
 
 ---
