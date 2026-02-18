@@ -36,7 +36,7 @@ public class MuhammadHuzaifa
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,ts,python,java" />
 </p>
 
 ---
@@ -51,15 +51,22 @@ public class MuhammadHuzaifa
 
 ### ⚙️ Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 ---
 
 ### 🧩 Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,windows,eclipse,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,github,windows,postman,eclipse,anaconda,stackoverflow,uv" />
 </p>
 
 ---
